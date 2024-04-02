@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "78c2d578a3a05b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "65bb368eb4b8fad1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d347f6b481daae0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e68a081588278919",
+    "type": "split",
+    "children": [
+      {
+        "id": "154a7e9aa72831e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec260fc044a76fbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dda259b2c3a64fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "exact",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67c3b17d2b0bfb0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "bde5ce664d7f7999",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5
+  },
+  "right": {
+    "id": "bf760229e943c25f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e16fe758a8395be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3f3f638a3f85f0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbd46f14f2a2c8ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dff3e9526596aa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f88070aba2429a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6a71f17b908dd69",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "148a3ad0ac575ebf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7d347f6b481daae0",
+  "lastOpenFiles": [
+    "Hello World.md",
+    "resolutions.md",
+    "birth of venus.md",
+    "resolutions.pdf",
+    "Untitled.md",
+    "test.md",
+    "test.md~",
+    "resolutions.org",
+    "test.pdf",
+    "Untitled.pdf",
+    "untitled.md",
+    "Untitled.markdown",
+    "Untitled.md~",
+    "new note.md",
+    "ece131a_notes.md",
+    "cs143_notes.md",
+    "csm51a_notes.md",
+    "cs111_notes.md",
+    "test.org",
+    "hello.org.md",
+    "Untitled",
+    "templates/brain_template.md",
+    "templates/lecture_template.md",
+    "templates",
+    "Courses/CS 111/Notes/Lecture Notes.md",
+    "Problem 3 On Test.md",
+    "Brain/test.md",
+    "Brain/wine_installation.md",
+    "Brain/Boolean Algebra.md",
+    "Brain/Bitstrings.md",
+    "Brain/Algebra Of Sets.md",
+    "Brain/Binary Relations.md",
+    "Courses/Math 61/Notes/Lecture 5.md",
+    "Career/cs_counselor_meeting.md",
+    "Internships/Todo.md",
+    "Untitled.canvas",
+    "Assets/Pasted image 20230705103556.png",
+    "Assets/Pasted image 20231209163526.png",
+    "Assets/Pasted image 20231208195323.png",
+    "Assets/Pasted image 20231208195214.png",
+    "Assets/Pasted image 20231208194720.png",
+    "Assets/Pasted image 20231201132619.png",
+    "Assets/Pasted image 20231207220317.png",
+    "Assets/Pasted image 20231206163341.png",
+    "Assets/Pasted image 20231205235346.png",
+    "Assets/Pasted image 20231205141757.png",
+    "Assets/Canvases/Planar Graph Problem 1.canvas",
+    "Dashboard.canvas",
+    "Welcome.canvas",
+    "Courses/Dashboard.canvas"
+  ]
+}

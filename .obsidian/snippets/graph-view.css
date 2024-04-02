@@ -1,0 +1,16 @@
+/* Set node colors in graph view */
+
+.graph-view.color-fill-tag {
+  color: #195B8F;
+}
+
+.graph-view.color-fill-attachment {
+color: #8147A3;
+}
+
+/*.theme-dark .graph-view.color-fill-unresolved {
+color: #9e8aff;
+Opacity:1;
+}*/
+
+

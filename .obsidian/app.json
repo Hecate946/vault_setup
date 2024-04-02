@@ -1,0 +1,26 @@
+{
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "propertiesInDocument": "source",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "showInlineTitle": false,
+  "newFileFolderPath": "/",
+  "newLinkFormat": "absolute",
+  "trashOption": "system",
+  "foldHeading": false,
+  "foldIndent": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "useTab": false
+}
